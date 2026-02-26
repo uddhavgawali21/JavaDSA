@@ -56,11 +56,11 @@ public class Pattern2 {
 
     public static void main(String[] args) {
         Pattern2 p = new Pattern2();
-    //  p.pattern1(5);
-    //  p.pattern2(5);
-    //  p.pattern3(5);
-    //  p.pattern4(5);
-    //    p.pattern5(4);
+     p.pattern1(5);
+     p.pattern2(5);
+     p.pattern3(5);
+     p.pattern4(5);
+       p.pattern5(4);
           p.pattern6(4);
 
     }
